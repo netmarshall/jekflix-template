@@ -13,7 +13,7 @@ sections:
 - type: directory
   path: _authors
   label: Authors
-  create: all
+  create: documents
   match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
